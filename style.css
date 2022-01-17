@@ -1,0 +1,114 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+    align-items: left;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 20vh;
+  }
+
+.card{
+  background-color:hsl(216, 50%, 16%);
+  max-height: 800px;
+  border-radius: 12px;
+  box-shadow: darkcyan;
+  padding: 25px ;
+  padding-bottom: 10px;
+}
+  
+.bg-img {
+  border-radius: 12px;
+  height: 350px;
+  width: 100%;
+  object-fit: cover;
+  }
+
+.bg-img:hover{
+  cursor: pointer;
+}
+  
+.main-content {
+    padding: 15px;
+  }
+
+.img-jules{
+  width: 30px;
+}
+
+h2{
+  font-weight: 600;
+  color: hsl(0, 0%, 100%);
+}
+
+h2:hover{
+  color: var(--cyan);
+  cursor: pointer;
+}
+
+.content{
+  font-weight: 100;
+  font-size: 18px;
+  color: hsl(0, 0%, 100%);
+}
+
+.info{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.price{
+  font-weight: 600;
+  color: hsl(178, 100%, 50%);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+
+.time{
+  font-weight: 100;
+  font-size: 18px;
+  color: hsl(0, 0%, 100%);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.credit{
+  font-weight: 50;
+  font-size: 18px;
+  color: hsl(0, 0%, 100%);
+}
+
+b{
+  color: hsl(0, 0%, 100%);
+}
+
+b:hover{
+  color: var(--cyan);
+  cursor: pointer;
+}
+
+hr {
+  margin: 0.5px auto;
+  color: hsl(215, 32%, 27%);
+  border: 1px solid hsl(215, 32%, 27%);
+  max-width: 100%;
+}
+
+footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
