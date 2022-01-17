@@ -23,10 +23,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-![](images/nft-card.png)
-
 ### Links
 
 - Solution URL: (https://github.com/vinit2587/NFT-card-component/upload)
@@ -58,4 +54,4 @@ In my future development projects I would like to work more on styling the compo
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@vinit2587](https://www.frontendmentor.io/profile/vinit2587)
