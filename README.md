@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/vinit2587/NFT-card-component/upload)
+- Solution URL: (https://github.com/vinit2587/NFT-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
