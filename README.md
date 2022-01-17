@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/vinit2587/NFT-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://vinit2587.github.io/NFT-card-component/)
 
 ## My process
 
@@ -53,5 +53,5 @@ In my future development projects I would like to work more on styling the compo
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - (https://vinit2587.github.io/NFT-card-component/)
 - Frontend Mentor - [@vinit2587](https://www.frontendmentor.io/profile/vinit2587)
